@@ -14,5 +14,5 @@ using data provided by OpenFlights.org.
 
 Example map:
 
-<p align="center"><img src="https://raw.githubusercontent.com/lhehnke/lhehnke.github.io/master/img/openflights-nasa/Airlines.png" width="655px" height="327x" vspace="40px"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/lhehnke/lhehnke.github.io/master/img/openflights-nasa/Airlines_final.png" width="655px" height="327x" vspace="40px"/></p>
 
