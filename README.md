@@ -3,6 +3,8 @@ Script for mapping airline routes using OpenFlights data combined with NASA's ni
 
 ## Description:
 
+Corresponding blog post: https://lhehnke.github.io/notes/2018/01/27/flight-routes-night-lights
+
 The script covers
 
 * downloading and processing data on international flight routes, airlines, and airports
