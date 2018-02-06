@@ -5,6 +5,8 @@
 
 ## R version 3.3.1 (2016-06-21)
 
+## Author: Lisa Hehnke || lhehnke.github.io || @DataPlanes
+
 
 #-------#
 # Setup #
